@@ -1,12 +1,74 @@
-# React + Vite
+# 🛒 Tech Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive e-commerce website built with **React, JavaScript, Tailwind CSS, and Vite**.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**[View Tech Shop Live](https://saroj-jena-tech.github.io/Tech-shop-React-js/)**
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Responsive e-commerce interface
+* Product browsing
+* Product details
+* Shopping cart
+* Interactive navigation
+* Responsive design for different screen sizes
+
+## 🛠️ Tech Stack
+
+* **React**
+* **JavaScript**
+* **Tailwind CSS**
+* **HTML5**
+* **CSS3**
+* **Vite**
+* **React Router**
+
+## 📂 Project Structure
+
+```text
+src/
+├── component/
+├── navigations/
+├── pages/
+├── reduxToolKit-store/
+└── myCongtext/
+
+public/
+```
+
+## 💻 Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/saroj-jena-tech/Tech-shop-React-js.git
+```
+
+Navigate to the project:
+
+```bash
+cd Tech-shop-React-js
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 👨‍💻 Author
+
+**Saroj Jena**
+
+Java Backend Developer
+
+* GitHub: https://github.com/saroj-jena-tech
+* LinkedIn: https://www.linkedin.com/in/saroj-jena-java/
