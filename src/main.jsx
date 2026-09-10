@@ -14,7 +14,7 @@ createRoot(document.getElementById('root')).render(
     <MyContext>
 
 
-      <BrowserRouter>
+    <BrowserRouter basename="/Tech-shop-React-js">
         <Provider store={store}>
           <App />
         </Provider >
